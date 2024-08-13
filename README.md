@@ -4,7 +4,7 @@
 
 🏫 Computer Science and Physics undergrad @ UBC Vancouver
 
-💻 Web3 and backend developer
+💻 Machine Learning and fullstack developer
 
 📚 I love reading fantasy and non fiction. 
 
