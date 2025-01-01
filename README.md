@@ -4,9 +4,7 @@
 
 🏫 Computer Science and Physics undergrad @ UBC Vancouver
 
-💻 Machine Learning engineer and fullstack web developer
-
-🔭 I’m currently working on a ML challenge, a full stack web app, and a trading algorithm
+💻 I am into Machine Learning and Physics
 
 📚 I love reading fantasy and non fiction. 
 
